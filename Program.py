@@ -1,2 +1,1 @@
-Print("hello")
-Print("1234")
+print("hello")
